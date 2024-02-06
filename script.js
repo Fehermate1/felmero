@@ -1,7 +1,7 @@
 // All or Nothing
 function possiblyPerfect(b,valaszok) 
 {
-    let helyes_all = true;
+    let allCorrect = true;
     let allIncorrect = true;
   
     for (let i = 0; i < b.length; i++) 
